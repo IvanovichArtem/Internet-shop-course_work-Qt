@@ -1,0 +1,11 @@
+debug/abstract.o
+debug/administrator.o
+debug/busket.o
+debug/main.o
+debug/authorization.o
+debug/user.o
+debug/moc_abstract.o
+debug/moc_administrator.o
+debug/moc_authorization.o
+debug/moc_busket.o
+debug/moc_user.o

@@ -1,0 +1,11 @@
+release/abstract.o
+release/administrator.o
+release/busket.o
+release/main.o
+release/authorization.o
+release/user.o
+release/moc_abstract.o
+release/moc_administrator.o
+release/moc_authorization.o
+release/moc_busket.o
+release/moc_user.o
